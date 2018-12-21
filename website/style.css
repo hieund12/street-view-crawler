@@ -31,9 +31,6 @@ a{
 
 #fly {
     color: white;
-    position: fixed;
-    left: 0;
-    bottom: 0;
     width: 100%;
     height: 29vh;
     z-index: 10000;
