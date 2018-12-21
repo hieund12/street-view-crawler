@@ -1,450 +1,126 @@
-location-2-0.jpg;empty;53.0;47.0
-location-2-45.jpg;empty;57.0;43.0
-location-2-90.jpg;empty;56.0;44.0
-location-2-135.jpg;empty;56.0;44.0
-location-2-175.jpg;empty;82.0;18.0
-location-2-220.jpg;empty;71.0;29.0
-location-2-265.jpg;empty;83.0;17.0
-location-2-310.jpg;empty;72.0;28.0
-location-2-355.jpg;empty;54.0;46.0
-location-3-0.jpg;empty;83.0;17.0
-location-3-45.jpg;empty;83.0;17.0
-location-3-90.jpg;empty;83.0;17.0
-location-3-135.jpg;empty;83.0;17.0
-location-3-175.jpg;empty;83.0;17.0
-location-3-220.jpg;empty;83.0;17.0
-location-3-265.jpg;empty;83.0;17.0
-location-3-310.jpg;empty;83.0;17.0
-location-3-355.jpg;empty;83.0;17.0
-location-4-0.jpg;empty;79.0;21.0
-location-4-45.jpg;empty;71.0;29.0
-location-4-90.jpg;empty;84.0;16.0
-location-4-135.jpg;empty;71.0;29.0
-location-4-175.jpg;empty;58.0;42.0
-location-4-220.jpg;empty;85.0;15.0
-location-4-265.jpg;empty;87.0;13.0
-location-4-310.jpg;empty;79.0;21.0
-location-4-355.jpg;empty;67.0;33.0
-location-5-0.jpg;empty;89.0;11.0
-location-5-45.jpg;empty;85.0;15.0
-location-5-90.jpg;empty;63.0;37.0
-location-5-135.jpg;tag;47.0;53.0
-location-5-175.jpg;empty;78.0;22.0
-location-5-220.jpg;empty;86.0;14.0
-location-5-265.jpg;empty;80.0;20.0
-location-5-310.jpg;empty;75.0;25.0
-location-5-355.jpg;empty;91.0;9.0
-location-6-0.jpg;empty;73.0;27.0
-location-6-45.jpg;empty;52.0;48.0
-location-6-90.jpg;empty;69.0;31.0
-location-6-135.jpg;empty;71.0;29.0
-location-6-175.jpg;tag;46.0;54.0
-location-6-220.jpg;empty;73.0;27.0
-location-6-265.jpg;empty;77.0;23.0
-location-6-310.jpg;empty;78.0;22.0
-location-6-355.jpg;empty;65.0;35.0
-location-7-0.jpg;empty;83.0;17.0
-location-7-45.jpg;empty;83.0;17.0
-location-7-90.jpg;empty;83.0;17.0
-location-7-135.jpg;empty;83.0;17.0
-location-7-175.jpg;empty;83.0;17.0
-location-7-220.jpg;empty;83.0;17.0
-location-7-265.jpg;empty;83.0;17.0
-location-7-310.jpg;empty;83.0;17.0
-location-7-355.jpg;empty;83.0;17.0
-location-8-0.jpg;empty;70.0;30.0
-location-8-45.jpg;tag;51.0;49.0
-location-8-90.jpg;empty;53.0;47.0
-location-8-135.jpg;empty;79.0;21.0
-location-8-175.jpg;empty;63.0;37.0
-location-8-220.jpg;empty;56.0;44.0
-location-8-265.jpg;empty;75.0;25.0
-location-8-310.jpg;empty;85.0;15.0
-location-8-355.jpg;empty;83.0;17.0
-location-9-0.jpg;empty;62.0;38.0
-location-9-45.jpg;empty;73.0;27.0
-location-9-90.jpg;tag;40.0;60.0
-location-9-135.jpg;empty;58.0;42.0
-location-9-175.jpg;empty;60.0;40.0
-location-9-220.jpg;tag;36.0;64.0
-location-9-265.jpg;empty;61.0;39.0
-location-9-310.jpg;tag;44.0;56.0
-location-9-355.jpg;empty;67.0;33.0
-location-10-0.jpg;empty;79.0;21.0
-location-10-45.jpg;tag;50.0;50.0
-location-10-90.jpg;tag;24.0;76.0
-location-10-135.jpg;empty;53.0;47.0
-location-10-175.jpg;empty;73.0;27.0
-location-10-220.jpg;empty;79.0;21.0
-location-10-265.jpg;tag;42.0;58.0
-location-10-310.jpg;tag;46.0;54.0
-location-10-355.jpg;empty;71.0;29.0
-location-11-0.jpg;empty;62.0;38.0
-location-11-45.jpg;empty;60.0;40.0
-location-11-90.jpg;tag;36.0;64.0
-location-11-135.jpg;empty;62.0;38.0
-location-11-175.jpg;tag;36.0;64.0
-location-11-220.jpg;empty;54.0;46.0
-location-11-265.jpg;tag;19.0;81.0
-location-11-310.jpg;empty;56.0;44.0
-location-11-355.jpg;tag;33.0;67.0
-location-12-0.jpg;empty;72.0;28.0
-location-12-45.jpg;empty;59.0;41.0
-location-12-90.jpg;empty;80.0;20.0
-location-12-135.jpg;tag;46.0;54.0
-location-12-175.jpg;empty;58.0;42.0
-location-12-220.jpg;empty;55.0;45.0
-location-12-265.jpg;empty;65.0;35.0
-location-12-310.jpg;empty;76.0;24.0
-location-12-355.jpg;empty;60.0;40.0
-location-13-0.jpg;empty;64.0;36.0
-location-13-45.jpg;empty;81.0;19.0
-location-13-90.jpg;empty;72.0;28.0
-location-13-135.jpg;tag;50.0;50.0
-location-13-175.jpg;empty;57.0;43.0
-location-13-220.jpg;tag;30.0;70.0
-location-13-265.jpg;tag;51.0;49.0
-location-13-310.jpg;empty;65.0;35.0
-location-13-355.jpg;empty;61.0;39.0
-location-14-0.jpg;tag;36.0;64.0
-location-14-45.jpg;empty;86.0;14.0
-location-14-90.jpg;empty;67.0;33.0
-location-14-135.jpg;empty;55.0;45.0
-location-14-175.jpg;empty;62.0;38.0
-location-14-220.jpg;empty;81.0;19.0
-location-14-265.jpg;empty;91.0;9.0
-location-14-310.jpg;empty;93.0;7.0
-location-14-355.jpg;empty;63.0;37.0
-location-15-0.jpg;tag;50.0;50.0
-location-15-45.jpg;empty;73.0;27.0
-location-15-90.jpg;empty;78.0;22.0
-location-15-135.jpg;empty;75.0;25.0
-location-15-175.jpg;empty;60.0;40.0
-location-15-220.jpg;tag;43.0;57.0
-location-15-265.jpg;empty;56.0;44.0
-location-15-310.jpg;tag;23.0;77.0
-location-15-355.jpg;tag;49.0;51.0
-location-16-0.jpg;empty;73.0;27.0
-location-16-45.jpg;tag;50.0;50.0
-location-16-90.jpg;empty;79.0;21.0
-location-16-135.jpg;empty;76.0;24.0
-location-16-175.jpg;empty;86.0;14.0
-location-16-220.jpg;empty;58.0;42.0
-location-16-265.jpg;empty;76.0;24.0
-location-16-310.jpg;empty;72.0;28.0
-location-16-355.jpg;empty;76.0;24.0
-location-17-0.jpg;empty;70.0;30.0
-location-17-45.jpg;empty;63.0;37.0
-location-17-90.jpg;empty;53.0;47.0
-location-17-135.jpg;tag;44.0;56.0
-location-17-175.jpg;tag;49.0;51.0
-location-17-220.jpg;tag;46.0;54.0
-location-17-265.jpg;tag;50.0;50.0
-location-17-310.jpg;empty;70.0;30.0
-location-17-355.jpg;empty;80.0;20.0
-location-18-0.jpg;tag;46.0;54.0
-location-18-45.jpg;tag;34.0;66.0
-location-18-90.jpg;tag;47.0;53.0
-location-18-135.jpg;tag;37.0;63.0
-location-18-175.jpg;tag;28.0;72.0
-location-18-220.jpg;tag;38.0;62.0
-location-18-265.jpg;tag;31.0;69.0
-location-18-310.jpg;tag;39.0;61.0
-location-18-355.jpg;tag;35.0;65.0
-location-19-0.jpg;empty;83.0;17.0
-location-19-45.jpg;empty;83.0;17.0
-location-19-90.jpg;empty;83.0;17.0
-location-19-135.jpg;empty;83.0;17.0
-location-19-175.jpg;empty;83.0;17.0
-location-19-220.jpg;empty;83.0;17.0
-location-19-265.jpg;empty;83.0;17.0
-location-19-310.jpg;empty;83.0;17.0
-location-19-355.jpg;empty;83.0;17.0
-location-20-0.jpg;empty;70.0;30.0
-location-20-45.jpg;empty;65.0;35.0
-location-20-90.jpg;empty;65.0;35.0
-location-20-135.jpg;empty;86.0;14.0
-location-20-175.jpg;empty;92.0;8.0
-location-20-220.jpg;empty;72.0;28.0
-location-20-265.jpg;empty;79.0;21.0
-location-20-310.jpg;empty;62.0;38.0
-location-20-355.jpg;empty;65.0;35.0
-location-21-0.jpg;empty;87.0;13.0
-location-21-45.jpg;empty;77.0;23.0
-location-21-90.jpg;empty;85.0;15.0
-location-21-135.jpg;empty;83.0;17.0
-location-21-175.jpg;empty;79.0;21.0
-location-21-220.jpg;empty;81.0;19.0
-location-21-265.jpg;empty;94.0;6.0
-location-21-310.jpg;empty;84.0;16.0
-location-21-355.jpg;empty;85.0;15.0
-location-22-0.jpg;empty;83.0;17.0
-location-22-45.jpg;empty;83.0;17.0
-location-22-90.jpg;empty;83.0;17.0
-location-22-135.jpg;empty;83.0;17.0
-location-22-175.jpg;empty;83.0;17.0
-location-22-220.jpg;empty;83.0;17.0
-location-22-265.jpg;empty;83.0;17.0
-location-22-310.jpg;empty;83.0;17.0
-location-22-355.jpg;empty;83.0;17.0
-location-23-0.jpg;empty;64.0;36.0
-location-23-45.jpg;empty;66.0;34.0
-location-23-90.jpg;empty;58.0;42.0
-location-23-135.jpg;empty;75.0;25.0
-location-23-175.jpg;empty;56.0;44.0
-location-23-220.jpg;empty;53.0;47.0
-location-23-265.jpg;empty;58.0;42.0
-location-23-310.jpg;empty;69.0;31.0
-location-23-355.jpg;empty;63.0;37.0
-location-24-0.jpg;empty;60.0;40.0
-location-24-45.jpg;empty;63.0;37.0
-location-24-90.jpg;empty;71.0;29.0
-location-24-135.jpg;tag;36.0;64.0
-location-24-175.jpg;tag;41.0;59.0
-location-24-220.jpg;empty;64.0;36.0
-location-24-265.jpg;tag;35.0;65.0
-location-24-310.jpg;empty;56.0;44.0
-location-24-355.jpg;empty;65.0;35.0
-location-25-0.jpg;empty;74.0;26.0
-location-25-45.jpg;empty;61.0;39.0
-location-25-90.jpg;empty;72.0;28.0
-location-25-135.jpg;empty;63.0;37.0
-location-25-175.jpg;empty;69.0;31.0
-location-25-220.jpg;empty;71.0;29.0
-location-25-265.jpg;empty;88.0;12.0
-location-25-310.jpg;empty;85.0;15.0
-location-25-355.jpg;empty;72.0;28.0
-location-26-0.jpg;tag;40.0;60.0
-location-26-45.jpg;empty;86.0;14.0
-location-26-90.jpg;empty;84.0;16.0
-location-26-135.jpg;empty;83.0;17.0
-location-26-175.jpg;empty;58.0;42.0
-location-26-220.jpg;tag;45.0;55.0
-location-26-265.jpg;tag;36.0;64.0
-location-26-310.jpg;empty;64.0;36.0
-location-26-355.jpg;empty;70.0;30.0
-location-27-0.jpg;tag;42.0;58.0
-location-27-45.jpg;empty;68.0;32.0
-location-27-90.jpg;tag;36.0;64.0
-location-27-135.jpg;tag;32.0;68.0
-location-27-175.jpg;empty;63.0;37.0
-location-27-220.jpg;empty;58.0;42.0
-location-27-265.jpg;tag;29.0;71.0
-location-27-310.jpg;tag;36.0;64.0
-location-27-355.jpg;tag;40.0;60.0
-location-28-0.jpg;empty;83.0;17.0
-location-28-45.jpg;empty;83.0;17.0
-location-28-90.jpg;empty;83.0;17.0
-location-28-135.jpg;empty;83.0;17.0
-location-28-175.jpg;empty;83.0;17.0
-location-28-220.jpg;empty;83.0;17.0
-location-28-265.jpg;empty;83.0;17.0
-location-28-310.jpg;empty;83.0;17.0
-location-28-355.jpg;empty;83.0;17.0
-location-29-0.jpg;empty;83.0;17.0
-location-29-45.jpg;empty;83.0;17.0
-location-29-90.jpg;empty;83.0;17.0
-location-29-135.jpg;empty;83.0;17.0
-location-29-175.jpg;empty;83.0;17.0
-location-29-220.jpg;empty;83.0;17.0
-location-29-265.jpg;empty;83.0;17.0
-location-29-310.jpg;empty;83.0;17.0
-location-29-355.jpg;empty;83.0;17.0
-location-30-0.jpg;tag;39.0;61.0
-location-30-45.jpg;empty;92.0;8.0
-location-30-90.jpg;empty;94.0;6.0
-location-30-135.jpg;empty;97.0;3.0
-location-30-175.jpg;empty;83.0;17.0
-location-30-220.jpg;tag;35.0;65.0
-location-30-265.jpg;tag;48.0;52.0
-location-30-310.jpg;tag;40.0;60.0
-location-30-355.jpg;tag;39.0;61.0
-location-31-0.jpg;empty;83.0;17.0
-location-31-45.jpg;empty;83.0;17.0
-location-31-90.jpg;empty;83.0;17.0
-location-31-135.jpg;empty;83.0;17.0
-location-31-175.jpg;empty;83.0;17.0
-location-31-220.jpg;empty;83.0;17.0
-location-31-265.jpg;empty;83.0;17.0
-location-31-310.jpg;empty;83.0;17.0
-location-31-355.jpg;empty;83.0;17.0
-location-32-0.jpg;empty;65.0;35.0
-location-32-45.jpg;empty;74.0;26.0
-location-32-90.jpg;empty;61.0;39.0
-location-32-135.jpg;empty;64.0;36.0
-location-32-175.jpg;tag;47.0;53.0
-location-32-220.jpg;empty;73.0;27.0
-location-32-265.jpg;empty;53.0;47.0
-location-32-310.jpg;empty;59.0;41.0
-location-32-355.jpg;empty;72.0;28.0
-location-33-0.jpg;empty;83.0;17.0
-location-33-45.jpg;empty;83.0;17.0
-location-33-90.jpg;empty;83.0;17.0
-location-33-135.jpg;empty;83.0;17.0
-location-33-175.jpg;empty;83.0;17.0
-location-33-220.jpg;empty;83.0;17.0
-location-33-265.jpg;empty;83.0;17.0
-location-33-310.jpg;empty;83.0;17.0
-location-33-355.jpg;empty;83.0;17.0
-location-34-0.jpg;empty;76.0;24.0
-location-34-45.jpg;empty;58.0;42.0
-location-34-90.jpg;empty;53.0;47.0
-location-34-135.jpg;tag;50.0;50.0
-location-34-175.jpg;empty;75.0;25.0
-location-34-220.jpg;empty;62.0;38.0
-location-34-265.jpg;empty;56.0;44.0
-location-34-310.jpg;empty;60.0;40.0
-location-34-355.jpg;empty;84.0;16.0
-location-35-0.jpg;empty;83.0;17.0
-location-35-45.jpg;empty;83.0;17.0
-location-35-90.jpg;empty;83.0;17.0
-location-35-135.jpg;empty;83.0;17.0
-location-35-175.jpg;empty;83.0;17.0
-location-35-220.jpg;empty;83.0;17.0
-location-35-265.jpg;empty;83.0;17.0
-location-35-310.jpg;empty;83.0;17.0
-location-35-355.jpg;empty;83.0;17.0
-location-36-0.jpg;empty;66.0;34.0
-location-36-45.jpg;tag;23.0;77.0
-location-36-90.jpg;tag;46.0;54.0
-location-36-135.jpg;tag;43.0;57.0
-location-36-175.jpg;empty;59.0;41.0
-location-36-220.jpg;tag;40.0;60.0
-location-36-265.jpg;tag;31.0;69.0
-location-36-310.jpg;empty;58.0;42.0
-location-36-355.jpg;empty;79.0;21.0
-location-37-0.jpg;empty;83.0;17.0
-location-37-45.jpg;empty;83.0;17.0
-location-37-90.jpg;empty;83.0;17.0
-location-37-135.jpg;empty;83.0;17.0
-location-37-175.jpg;empty;83.0;17.0
-location-37-220.jpg;empty;83.0;17.0
-location-37-265.jpg;empty;83.0;17.0
-location-37-310.jpg;empty;83.0;17.0
-location-37-355.jpg;empty;83.0;17.0
-location-38-0.jpg;empty;83.0;17.0
-location-38-45.jpg;empty;83.0;17.0
-location-38-90.jpg;empty;83.0;17.0
-location-38-135.jpg;empty;83.0;17.0
-location-38-175.jpg;empty;83.0;17.0
-location-38-220.jpg;empty;83.0;17.0
-location-38-265.jpg;empty;83.0;17.0
-location-38-310.jpg;empty;83.0;17.0
-location-38-355.jpg;empty;83.0;17.0
-location-39-0.jpg;empty;87.0;13.0
-location-39-45.jpg;empty;84.0;16.0
-location-39-90.jpg;empty;75.0;25.0
-location-39-135.jpg;empty;62.0;38.0
-location-39-175.jpg;empty;65.0;35.0
-location-39-220.jpg;empty;78.0;22.0
-location-39-265.jpg;empty;82.0;18.0
-location-39-310.jpg;empty;82.0;18.0
-location-39-355.jpg;empty;90.0;10.0
-location-40-0.jpg;tag;46.0;54.0
-location-40-45.jpg;empty;63.0;37.0
-location-40-90.jpg;empty;76.0;24.0
-location-40-135.jpg;empty;64.0;36.0
-location-40-175.jpg;tag;44.0;56.0
-location-40-220.jpg;tag;51.0;49.0
-location-40-265.jpg;empty;75.0;25.0
-location-40-310.jpg;tag;50.0;50.0
-location-40-355.jpg;tag;46.0;54.0
-location-41-0.jpg;empty;78.0;22.0
-location-41-45.jpg;empty;60.0;40.0
-location-41-90.jpg;tag;45.0;55.0
-location-41-135.jpg;tag;44.0;56.0
-location-41-175.jpg;tag;36.0;64.0
-location-41-220.jpg;empty;69.0;31.0
-location-41-265.jpg;empty;79.0;21.0
-location-41-310.jpg;empty;77.0;23.0
-location-41-355.jpg;empty;69.0;31.0
-location-42-0.jpg;tag;48.0;52.0
-location-42-45.jpg;empty;56.0;44.0
-location-42-90.jpg;empty;68.0;32.0
-location-42-135.jpg;empty;71.0;29.0
-location-42-175.jpg;tag;48.0;52.0
-location-42-220.jpg;empty;70.0;30.0
-location-42-265.jpg;tag;48.0;52.0
-location-42-310.jpg;tag;50.0;50.0
-location-42-355.jpg;empty;52.0;48.0
-location-43-0.jpg;tag;48.0;52.0
-location-43-45.jpg;empty;55.0;45.0
-location-43-90.jpg;empty;60.0;40.0
-location-43-135.jpg;tag;46.0;54.0
-location-43-175.jpg;empty;65.0;35.0
-location-43-220.jpg;empty;69.0;31.0
-location-43-265.jpg;tag;48.0;52.0
-location-43-310.jpg;tag;40.0;60.0
-location-43-355.jpg;empty;66.0;34.0
-location-44-0.jpg;tag;30.0;70.0
-location-44-45.jpg;tag;49.0;51.0
-location-44-90.jpg;empty;90.0;10.0
-location-44-135.jpg;empty;91.0;9.0
-location-44-175.jpg;empty;59.0;41.0
-location-44-220.jpg;empty;62.0;38.0
-location-44-265.jpg;empty;72.0;28.0
-location-44-310.jpg;empty;60.0;40.0
-location-44-355.jpg;tag;42.0;58.0
-location-45-0.jpg;empty;58.0;42.0
-location-45-45.jpg;empty;61.0;39.0
-location-45-90.jpg;empty;71.0;29.0
-location-45-135.jpg;tag;37.0;63.0
-location-45-175.jpg;empty;79.0;21.0
-location-45-220.jpg;tag;46.0;54.0
-location-45-265.jpg;empty;58.0;42.0
-location-45-310.jpg;empty;65.0;35.0
-location-45-355.jpg;empty;70.0;30.0
-location-46-0.jpg;empty;83.0;17.0
-location-46-45.jpg;empty;59.0;41.0
-location-46-90.jpg;empty;55.0;45.0
-location-46-135.jpg;tag;45.0;55.0
-location-46-175.jpg;empty;57.0;43.0
-location-46-220.jpg;empty;72.0;28.0
-location-46-265.jpg;empty;78.0;22.0
-location-46-310.jpg;empty;79.0;21.0
-location-46-355.jpg;empty;74.0;26.0
-location-47-0.jpg;empty;84.0;16.0
-location-47-45.jpg;empty;64.0;36.0
-location-47-90.jpg;empty;71.0;29.0
-location-47-135.jpg;empty;63.0;37.0
-location-47-175.jpg;empty;59.0;41.0
-location-47-220.jpg;empty;55.0;45.0
-location-47-265.jpg;empty;79.0;21.0
-location-47-310.jpg;empty;74.0;26.0
-location-47-355.jpg;empty;77.0;23.0
-location-48-0.jpg;empty;65.0;35.0
-location-48-45.jpg;empty;75.0;25.0
-location-48-90.jpg;empty;64.0;36.0
-location-48-135.jpg;empty;64.0;36.0
-location-48-175.jpg;empty;66.0;34.0
-location-48-220.jpg;empty;67.0;33.0
-location-48-265.jpg;tag;44.0;56.0
-location-48-310.jpg;empty;75.0;25.0
-location-48-355.jpg;empty;69.0;31.0
-location-49-0.jpg;empty;57.0;43.0
-location-49-45.jpg;empty;71.0;29.0
-location-49-90.jpg;empty;71.0;29.0
-location-49-135.jpg;empty;67.0;33.0
-location-49-175.jpg;tag;31.0;69.0
-location-49-220.jpg;tag;51.0;49.0
-location-49-265.jpg;tag;49.0;51.0
-location-49-310.jpg;tag;45.0;55.0
-location-49-355.jpg;tag;49.0;51.0
-location-50-0.jpg;empty;86.0;14.0
-location-50-45.jpg;empty;94.0;6.0
-location-50-90.jpg;empty;80.0;20.0
-location-50-135.jpg;empty;60.0;40.0
-location-50-175.jpg;empty;72.0;28.0
-location-50-220.jpg;empty;74.0;26.0
-location-50-265.jpg;empty;90.0;10.0
-location-50-310.jpg;empty;78.0;22.0
-location-50-355.jpg;empty;77.0;23.0
-location-51-0.jpg;empty;55.0;45.0
-location-51-45.jpg;tag;32.0;68.0
-location-51-90.jpg;tag;49.0;51.0
-location-51-135.jpg;empty;52.0;48.0
-location-51-175.jpg;tag;39.0;61.0
-location-51-220.jpg;tag;33.0;67.0
-location-51-265.jpg;tag;31.0;69.0
-location-51-310.jpg;empty;54.0;46.0
-location-51-355.jpg;empty;61.0;39.0
+(44.481753087514, 11.345511095116398)-38-0.jpg;empty;79.0;21.0
+(44.481753087514, 11.345511095116398)-38-45.jpg;empty;79.0;21.0
+(44.481753087514, 11.345511095116398)-38-90.jpg;empty;79.0;21.0
+(44.481753087514, 11.345511095116398)-38-135.jpg;empty;79.0;21.0
+(44.4813789014911, 11.331805268101068)-37-0.jpg;empty;84.0;16.0
+(44.4813789014911, 11.331805268101068)-37-45.jpg;empty;83.0;17.0
+(44.4813789014911, 11.331805268101068)-37-90.jpg;empty;86.0;14.0
+(44.4813789014911, 11.331805268101068)-37-135.jpg;empty;90.0;10.0
+(44.4878639813376, 11.341740114989554)-6-0.jpg;tag;49.0;51.0
+(44.4878639813376, 11.341740114989554)-6-45.jpg;tag;30.0;70.0
+(44.4878639813376, 11.341740114989554)-6-90.jpg;tag;36.0;64.0
+(44.4878639813376, 11.341740114989554)-6-135.jpg;tag;47.0;53.0
+(44.4878639813376, 11.341740114989554)-6-175.jpg;empty;60.0;40.0
+(44.4878639813376, 11.341740114989554)-6-220.jpg;empty;61.0;39.0
+(44.4878639813376, 11.341740114989554)-6-265.jpg;tag;29.0;71.0
+(44.4878639813376, 11.341740114989554)-6-310.jpg;tag;37.0;63.0
+(44.4878639813376, 11.341740114989554)-6-355.jpg;tag;31.0;69.0
+(44.4916220013457, 11.30589506404004)-26-0.jpg;tag;49.0;51.0
+(44.4916220013457, 11.30589506404004)-26-45.jpg;empty;81.0;19.0
+(44.4916220013457, 11.30589506404004)-26-90.jpg;empty;68.0;32.0
+(44.4916220013457, 11.30589506404004)-26-135.jpg;empty;80.0;20.0
+(44.4916220013457, 11.30589506404004)-26-175.jpg;empty;53.0;47.0
+(44.4916220013457, 11.30589506404004)-26-220.jpg;empty;70.0;30.0
+(44.4916220013457, 11.30589506404004)-26-265.jpg;empty;81.0;19.0
+(44.4916220013457, 11.30589506404004)-26-310.jpg;tag;50.0;50.0
+(44.4916220013457, 11.30589506404004)-26-355.jpg;empty;57.0;43.0
+(44.48001842704782, 11.340639914240555)-20-0.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-45.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-90.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-135.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-175.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-220.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-265.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-310.jpg;empty;79.0;21.0
+(44.48001842704782, 11.340639914240555)-20-355.jpg;empty;79.0;21.0
+(44.48067196062445, 11.326908095893689)-31-0.jpg;empty;84.0;16.0
+(44.48067196062445, 11.326908095893689)-31-45.jpg;empty;89.0;11.0
+(44.48067196062445, 11.326908095893689)-31-90.jpg;empty;83.0;17.0
+(44.48067196062445, 11.326908095893689)-31-135.jpg;empty;70.0;30.0
+(44.48067196062445, 11.326908095893689)-31-175.jpg;empty;69.0;31.0
+(44.48067196062445, 11.326908095893689)-31-220.jpg;empty;82.0;18.0
+(44.48067196062445, 11.326908095893689)-31-265.jpg;empty;81.0;19.0
+(44.48067196062445, 11.326908095893689)-31-310.jpg;empty;88.0;12.0
+(44.48067196062445, 11.326908095893689)-31-355.jpg;empty;85.0;15.0
+(44.48177579525384, 11.318962462858014)-29-0.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-45.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-90.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-135.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-175.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-220.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-265.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-310.jpg;empty;79.0;21.0
+(44.48177579525384, 11.318962462858014)-29-355.jpg;empty;79.0;21.0
+(44.48246608367544, 11.359487039515562)-21-0.jpg;empty;62.0;38.0
+(44.48246608367544, 11.359487039515562)-21-45.jpg;tag;42.0;58.0
+(44.48246608367544, 11.359487039515562)-21-90.jpg;empty;56.0;44.0
+(44.48246608367544, 11.359487039515562)-21-135.jpg;empty;61.0;39.0
+(44.48246608367544, 11.359487039515562)-21-175.jpg;empty;62.0;38.0
+(44.48246608367544, 11.359487039515562)-21-220.jpg;tag;45.0;55.0
+(44.48246608367544, 11.359487039515562)-21-265.jpg;empty;52.0;48.0
+(44.48246608367544, 11.359487039515562)-21-310.jpg;empty;56.0;44.0
+(44.48246608367544, 11.359487039515562)-21-355.jpg;empty;71.0;29.0
+(44.48444466466104, 11.358756046549031)-19-0.jpg;tag;46.0;54.0
+(44.48444466466104, 11.358756046549031)-19-45.jpg;empty;64.0;36.0
+(44.48444466466104, 11.358756046549031)-19-90.jpg;empty;87.0;13.0
+(44.48444466466104, 11.358756046549031)-19-135.jpg;empty;78.0;22.0
+(44.48444466466104, 11.358756046549031)-19-175.jpg;empty;71.0;29.0
+(44.48444466466104, 11.358756046549031)-19-220.jpg;empty;80.0;20.0
+(44.48444466466104, 11.358756046549031)-19-265.jpg;empty;68.0;32.0
+(44.48444466466104, 11.358756046549031)-19-310.jpg;empty;57.0;43.0
+(44.48444466466104, 11.358756046549031)-19-355.jpg;empty;55.0;45.0
+(44.48468051010427, 11.306898177564149)-3-0.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-45.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-90.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-135.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-175.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-220.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-265.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-310.jpg;empty;79.0;21.0
+(44.48468051010427, 11.306898177564149)-3-355.jpg;empty;79.0;21.0
+(44.48533222592161, 11.352605010518804)-7-0.jpg;tag;10.0;90.0
+(44.48533222592161, 11.352605010518804)-7-45.jpg;empty;53.0;47.0
+(44.48533222592161, 11.352605010518804)-7-90.jpg;empty;75.0;25.0
+(44.48533222592161, 11.352605010518804)-7-135.jpg;tag;27.0;73.0
+(44.48533222592161, 11.352605010518804)-7-175.jpg;tag;49.0;51.0
+(44.48533222592161, 11.352605010518804)-7-220.jpg;tag;45.0;55.0
+(44.48533222592161, 11.352605010518804)-7-265.jpg;tag;38.0;62.0
+(44.48533222592161, 11.352605010518804)-7-310.jpg;tag;34.0;66.0
+(44.48533222592161, 11.352605010518804)-7-355.jpg;tag;9.0;91.0
+(44.48549161591832, 11.345460517246396)-8-0.jpg;empty;59.0;41.0
+(44.48549161591832, 11.345460517246396)-8-45.jpg;empty;64.0;36.0
+(44.48549161591832, 11.345460517246396)-8-90.jpg;empty;64.0;36.0
+(44.48549161591832, 11.345460517246396)-8-135.jpg;tag;35.0;65.0
+(44.48549161591832, 11.345460517246396)-8-175.jpg;tag;31.0;69.0
+(44.48549161591832, 11.345460517246396)-8-220.jpg;empty;51.0;49.0
+(44.48549161591832, 11.345460517246396)-8-265.jpg;empty;64.0;36.0
+(44.48549161591832, 11.345460517246396)-8-310.jpg;empty;77.0;23.0
+(44.48549161591832, 11.345460517246396)-8-355.jpg;tag;34.0;66.0
+(44.48791586946691, 11.351601307158003)-28-0.jpg;empty;57.0;43.0
+(44.48791586946691, 11.351601307158003)-28-45.jpg;empty;78.0;22.0
+(44.48791586946691, 11.351601307158003)-28-90.jpg;empty;84.0;16.0
+(44.48791586946691, 11.351601307158003)-28-135.jpg;empty;82.0;18.0
+(44.48791586946691, 11.351601307158003)-28-175.jpg;empty;64.0;36.0
+(44.48791586946691, 11.351601307158003)-28-220.jpg;empty;64.0;36.0
+(44.48791586946691, 11.351601307158003)-28-265.jpg;tag;11.0;89.0
+(44.48791586946691, 11.351601307158003)-28-310.jpg;tag;50.0;50.0
+(44.48791586946691, 11.351601307158003)-28-355.jpg;empty;54.0;46.0
+(44.48835022835842, 11.327692691565344)-11-0.jpg;empty;74.0;26.0
+(44.48835022835842, 11.327692691565344)-11-45.jpg;empty;83.0;17.0
+(44.48835022835842, 11.327692691565344)-11-90.jpg;empty;70.0;30.0
+(44.48835022835842, 11.327692691565344)-11-135.jpg;empty;86.0;14.0
+(44.48835022835842, 11.327692691565344)-11-175.jpg;empty;69.0;31.0
+(44.48835022835842, 11.327692691565344)-11-220.jpg;empty;74.0;26.0
+(44.48835022835842, 11.327692691565344)-11-265.jpg;empty;68.0;32.0
+(44.48835022835842, 11.327692691565344)-11-310.jpg;empty;66.0;34.0
+(44.48835022835842, 11.327692691565344)-11-355.jpg;empty;75.0;25.0
+(44.48918063737818, 11.354324441158926)-33-0.jpg;empty;65.0;35.0
+(44.48918063737818, 11.354324441158926)-33-45.jpg;empty;78.0;22.0
+(44.48918063737818, 11.354324441158926)-33-90.jpg;empty;61.0;39.0
+(44.48918063737818, 11.354324441158926)-33-135.jpg;empty;61.0;39.0
+(44.48918063737818, 11.354324441158926)-33-175.jpg;empty;79.0;21.0
+(44.48918063737818, 11.354324441158926)-33-220.jpg;empty;59.0;41.0
+(44.48918063737818, 11.354324441158926)-33-265.jpg;tag;27.0;73.0
+(44.48918063737818, 11.354324441158926)-33-310.jpg;tag;44.0;56.0
+(44.48918063737818, 11.354324441158926)-33-355.jpg;tag;41.0;59.0
+(44.48918466901339, 11.358862445388008)-12-0.jpg;

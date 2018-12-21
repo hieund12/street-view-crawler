@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Regular.woff2') format('woff2'),
+        url('GTZirkon-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
