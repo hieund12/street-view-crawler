@@ -24,7 +24,7 @@
         </div>
         <marquee class="marquee" scrollamount="10" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseleave="this.start();">
             By using machine learning, this website collects, on a monthly basis, random images of Bologna (Italy),
-            retrieved from Google Street View and displays all the images it finds containing graffiti. </marquee>
+            retrieved from Google Street View and displays all the pictures it finds containing graffiti. </marquee>
         <button id='fly'>Get random tag</button>
     </div>
 
@@ -59,7 +59,7 @@
                         rawCoordinates.split(",")[1],
                         rawCoordinates.split(",")[0]
                     ],
-                    zoom: 19
+                    zoom: 18
                 });
                 console.log(rawCoordinates.split(",")[1], rawCoordinates.split(",")[0])
                 console.log(imgLocation[randomVal])
