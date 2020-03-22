@@ -23,10 +23,10 @@ a{
 }
 .marquee {
     border-top: 1px solid white;
-    padding-top: .2em;
-    height: 6vh;
-    color: white;
     border-bottom: 1px solid white;
+    height: 34px;
+    padding: 5px;
+    color: white;
 }
 
 #fly {
